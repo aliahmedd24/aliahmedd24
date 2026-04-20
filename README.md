@@ -78,43 +78,71 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏓 RoboPong</h3>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/aliahmedd24/RoboPong">
+        <img src="https://img.shields.io/badge/%F0%9F%8F%93%20%20RoboPong-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/aliahmedd24/RoboPong">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=RoboPong&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
-        </a>
+        <strong>A ROS-based robotic ping-pong system.</strong><br/>
+        Homography-calibrated vision tracks the ball in real time while a motion controller commands the arm — perception, calibration, and control end-to-end.
       </p>
-      <p align="center"><em>A ROS-based robotic ping-pong system with homography-calibrated vision and a motion controller — perception, calibration, and control working in real time.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 CNN in C++</h3>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/aliahmedd24/CNN-in-Cpp">
+        <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20%20CNN%20in%20C%2B%2B-ec4899?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/aliahmedd24/CNN-in-Cpp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=CNN-in-Cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
-        </a>
+        <strong>A CNN for MNIST, from scratch in C++.</strong><br/>
+        Single-file implementation — convolutions, pooling, backprop, and the training loop — with zero external ML libraries. Just math and loops.
       </p>
-      <p align="center"><em>A convolutional neural net for MNIST built from scratch in a single C++ file — forward pass, backprop, and training loop, no external ML libraries.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MNIST-F59E0B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/From%20Scratch-111827?style=flat-square"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Noor</h3>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/aliahmedd24/noor">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20Noor-10B981?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/aliahmedd24/noor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=noor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
-        </a>
+        <strong>An AI web navigator for visually impaired users.</strong><br/>
+        Independent web access via natural voice conversation and real-time screen comprehension, powered by Google's Gemini models.
       </p>
-      <p align="center"><em>An AI web navigator for visually impaired users — independent web access via natural voice conversation and real-time screen comprehension, powered by Gemini.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏢 NEXUS</h3>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/aliahmedd24/NEXUS">
+        <img src="https://img.shields.io/badge/%F0%9F%8F%A2%20%20NEXUS-F59E0B?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/aliahmedd24/NEXUS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=NEXUS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
-        </a>
+        <strong>Neural EXecutive Understanding System.</strong><br/>
+        Multi-agent platform that stress-tests leadership structures and optimizes C-suite staffing decisions. Built for the BMW GenAI Hackathon.
       </p>
-      <p align="center"><em>A Neural EXecutive Understanding System — multi-agent platform that stress-tests leadership structures and optimizes C-suite staffing. Built for the BMW GenAI Hackathon.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square"/>
+      </p>
     </td>
   </tr>
 </table>
