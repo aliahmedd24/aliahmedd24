@@ -85,7 +85,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=RoboPong&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
         </a>
       </p>
-      <p align="center"><em>A robotic ping-pong agent — where embodied AI gets a paddle. Real-time perception and control.</em></p>
+      <p align="center"><em>A ROS-based robotic ping-pong system with homography-calibrated vision and a motion controller — perception, calibration, and control working in real time.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧠 CNN in C++</h3>
@@ -94,18 +94,18 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=CNN-in-Cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
         </a>
       </p>
-      <p align="center"><em>A convolutional neural net written from scratch in C++. No PyTorch, no NumPy — just raw MNIST and raw math.</em></p>
+      <p align="center"><em>A convolutional neural net for MNIST built from scratch in a single C++ file — forward pass, backprop, and training loop, no external ML libraries.</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔬 Scientific Agent System</h3>
+      <h3 align="center">🌐 Noor</h3>
       <p align="center">
-        <a href="https://github.com/aliahmedd24/Agentic-System-for-Scientific-Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=Agentic-System-for-Scientific-Code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
+        <a href="https://github.com/aliahmedd24/noor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=noor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
         </a>
       </p>
-      <p align="center"><em>Multi-agent LLM pipeline that reads papers, maps concepts to code, and runs tests in Docker sandboxes.</em></p>
+      <p align="center"><em>An AI web navigator for visually impaired users — independent web access via natural voice conversation and real-time screen comprehension, powered by Gemini.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏢 NEXUS</h3>
@@ -114,10 +114,22 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliahmedd24&repo=NEXUS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=ec4899&text_color=C9D1D9"/>
         </a>
       </p>
-      <p align="center"><em>Multi-agent platform that stress-tests leadership structures. Built for the BMW GenAI Hackathon.</em></p>
+      <p align="center"><em>A Neural EXecutive Understanding System — multi-agent platform that stress-tests leadership structures and optimizes C-suite staffing. Built for the BMW GenAI Hackathon.</em></p>
     </td>
   </tr>
 </table>
+
+<details>
+  <summary align="center"><strong>🔽 More projects</strong></summary>
+  <br/>
+  <ul>
+    <li><strong><a href="https://github.com/aliahmedd24/BrandForge">BrandForge</a></strong> — AI platform with 11 specialized agents that turns a brand brief into a complete multi-platform marketing campaign across six production stages.</li>
+    <li><strong><a href="https://github.com/aliahmedd24/Multi-Tenant-Chatbot-Module">Wafaa AI Concierge</a></strong> — Multi-tenant B2B SaaS letting brands and restaurants deploy AI customer-service chatbots across social channels.</li>
+    <li><strong><a href="https://github.com/aliahmedd24/VC-Co-PIlot">VC Co-Pilot</a></strong> — Multi-agent AI system that guides founders and VC consultants through fundraising and strategic planning with knowledge graphs.</li>
+    <li><strong><a href="https://github.com/aliahmedd24/Agentic-System-for-Scientific-Code">Scientific Agent System</a></strong> — LLM pipeline that parses papers, maps concepts to code, and runs generated test scripts in Docker sandboxes.</li>
+    <li><strong><a href="https://github.com/aliahmedd24/Predictive-Maintenance-LSTM">Predictive Maintenance LSTM</a></strong> — End-to-end LSTM pipeline for equipment failure prediction.</li>
+  </ul>
+</details>
 
 ---
 
